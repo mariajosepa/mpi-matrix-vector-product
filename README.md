@@ -53,7 +53,7 @@ You write:
   1 2 
 ```
 
-An example of the input.csv for a 3x3 matrix and a 3x1 vector, with a dimension of 3 would look like:
+An example of the input.csv for a 2x2 matrix and a 2x1 vector, with a dimension of 2 would look like:
 
 ```python
 2 //this is the dimension
