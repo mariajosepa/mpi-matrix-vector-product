@@ -1,2 +1,2 @@
 # mpi-omp-matrix-vector-product
-Matrix Vector Product with OpenMP and MPI
+Matrix Vector Product with MPI
